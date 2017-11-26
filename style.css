@@ -1,0 +1,36 @@
+footer{
+    background-color: #5cb85c;
+    padding:70px 0px;
+}	       
+
+.logo{
+   color:#FFF;
+   font-weight:800;
+   font-size:30px;
+}
+
+.adress span , .contact span , .social span{
+  color: #FFF; 
+  font-weight: 800; 
+  padding-top:20px;
+  padding-bottom:20px; 
+  display: block;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 3px;
+}
+
+.adress li p , .contact li a , .social li a{
+   color:#FFF;
+   letter-spacing: 2px;
+   text-decoration:none;
+   font-size:12px;
+}
+
+.adress, .contact , .social{
+   list-style: none;
+}
+
+.social li{
+   float:left;
+}
